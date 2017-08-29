@@ -1,0 +1,18 @@
+G:\BELAJAR DI MAKERS\c#\PROJECT\UlarTangga\UlarTangga\bin\Debug\UlarTangga.exe.config
+G:\BELAJAR DI MAKERS\c#\PROJECT\UlarTangga\UlarTangga\bin\Debug\UlarTangga.exe
+G:\BELAJAR DI MAKERS\c#\PROJECT\UlarTangga\UlarTangga\bin\Debug\UlarTangga.pdb
+G:\BELAJAR DI MAKERS\c#\PROJECT\UlarTangga\UlarTangga\obj\Debug\UlarTangga.csprojResolveAssemblyReference.cache
+G:\BELAJAR DI MAKERS\c#\PROJECT\UlarTangga\UlarTangga\obj\Debug\UlarTangga.exe
+G:\BELAJAR DI MAKERS\c#\PROJECT\UlarTangga\UlarTangga\obj\Debug\UlarTangga.pdb
+C:\Users\User\Documents\Makers Institute\UlarTangga\UlarTangga\bin\Debug\UlarTangga.exe.config
+C:\Users\User\Documents\Makers Institute\UlarTangga\UlarTangga\bin\Debug\UlarTangga.exe
+C:\Users\User\Documents\Makers Institute\UlarTangga\UlarTangga\bin\Debug\UlarTangga.pdb
+C:\Users\User\Documents\Makers Institute\UlarTangga\UlarTangga\obj\Debug\UlarTangga.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Makers Institute\UlarTangga\UlarTangga\obj\Debug\UlarTangga.exe
+C:\Users\User\Documents\Makers Institute\UlarTangga\UlarTangga\obj\Debug\UlarTangga.pdb
+G:\BELAJAR DI MAKERS\c#\PROJECT\lalala\UlarTangga\UlarTangga\bin\Debug\UlarTangga.exe.config
+G:\BELAJAR DI MAKERS\c#\PROJECT\lalala\UlarTangga\UlarTangga\bin\Debug\UlarTangga.exe
+G:\BELAJAR DI MAKERS\c#\PROJECT\lalala\UlarTangga\UlarTangga\bin\Debug\UlarTangga.pdb
+G:\BELAJAR DI MAKERS\c#\PROJECT\lalala\UlarTangga\UlarTangga\obj\Debug\UlarTangga.csprojResolveAssemblyReference.cache
+G:\BELAJAR DI MAKERS\c#\PROJECT\lalala\UlarTangga\UlarTangga\obj\Debug\UlarTangga.exe
+G:\BELAJAR DI MAKERS\c#\PROJECT\lalala\UlarTangga\UlarTangga\obj\Debug\UlarTangga.pdb
